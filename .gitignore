@@ -1,2 +1,2 @@
-nod_modules/
-config/config.env
+node_modules/
+devcamper_api/config/config.env
