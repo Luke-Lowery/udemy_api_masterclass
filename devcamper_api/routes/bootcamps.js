@@ -14,7 +14,7 @@ router
     .get(getBootcamps)
     .post(createBootcamp);
 
-router.route
+router
     .route('/:id')
     .get(getBootcamp)
     .put(UpdateBootcamp)
